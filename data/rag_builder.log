@@ -1,0 +1,74 @@
+2025-07-02 12:36:24,943 - INFO - Loading spaCy and SentenceTransformer...
+2025-07-02 12:36:25,336 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-02 12:36:29,556 - INFO - Starting build
+2025-07-02 12:36:40,501 - INFO - 212 chunks generated
+2025-07-02 12:36:50,389 - INFO - Chunk graph: 212 nodes, 6753 edges
+2025-07-02 12:36:50,390 - INFO - Detected 25 communities
+2025-07-02 12:37:59,929 - WARNING - Hallucinated: {'barlaug & gulla', 'christen & christen', '1', 'openai', 'a language model (llm', 'approximately 281 minutes', 'appendix g.\n\n'}
+2025-07-02 12:37:59,935 - INFO - [1/25] Saved community_0
+2025-07-02 12:38:17,586 - WARNING - Hallucinated: {'the harmony assembly'}
+2025-07-02 12:38:17,598 - INFO - [2/25] Saved community_1
+2025-07-02 12:38:28,682 - WARNING - Hallucinated: {'wilcoxon'}
+2025-07-02 12:38:28,689 - INFO - [3/25] Saved community_2
+2025-07-02 12:38:43,733 - WARNING - Hallucinated: {'simple sampling', "the language learning machine's"}
+2025-07-02 12:38:43,743 - INFO - [4/25] Saved community_3
+2025-07-02 12:39:03,406 - WARNING - Hallucinated: {'joep barmentlo', 'piotr stańczyk', '32'}
+2025-07-02 12:39:03,410 - INFO - [5/25] Saved community_4
+2025-07-02 12:39:14,589 - INFO - [6/25] Saved community_5
+2025-07-02 12:39:39,347 - WARNING - Hallucinated: {'6', 'chinese', 'etash guha', '47', 'non-chinese', '20'}
+2025-07-02 12:39:39,352 - INFO - [7/25] Saved community_6
+2025-07-02 12:39:53,450 - WARNING - Hallucinated: {'query-focused summarization', 'retrieval-augmented generation (rag', 'graphrag', 'microsoft strategic missions and technologies', 'microsoft office', 'from local to global: a graphrag approach', 'microsoft research'}
+2025-07-02 12:39:53,457 - INFO - [8/25] Saved community_7
+2025-07-02 12:41:03,246 - WARNING - Hallucinated: {'8k, 16k,'}
+2025-07-02 12:41:03,253 - INFO - [9/25] Saved community_8
+2025-07-02 12:41:13,718 - WARNING - Hallucinated: {'under 5 seconds'}
+2025-07-02 12:41:13,722 - INFO - [10/25] Saved community_9
+2025-07-02 12:41:24,811 - INFO - [11/25] Saved community_10
+2025-07-02 12:41:39,795 - WARNING - Hallucinated: {'approximately 3-5'}
+2025-07-02 12:41:39,800 - INFO - [12/25] Saved community_11
+2025-07-02 12:42:13,026 - WARNING - Hallucinated: {'mixtral', 'news', 'llama 2'}
+2025-07-02 12:42:13,030 - INFO - [13/25] Saved community_12
+2025-07-02 12:42:33,671 - WARNING - Hallucinated: {'swiglu', 'commonsense reasoning', 'commonsenseqa', 'world knowledge', '13'}
+2025-07-02 12:42:33,677 - INFO - [14/25] Saved community_13
+2025-07-02 12:42:56,126 - WARNING - Hallucinated: {'14', 'community', 'community 14', '5', '1', '4', '2', '3'}
+2025-07-02 12:42:56,129 - INFO - [15/25] Saved community_14
+2025-07-02 12:43:12,299 - WARNING - Hallucinated: {'two'}
+2025-07-02 12:43:12,302 - INFO - [16/25] Saved community_15
+2025-07-02 12:44:31,106 - WARNING - Hallucinated: {'approximately 4', 'method a', 'approximately 0.5'}
+2025-07-02 12:44:31,110 - INFO - [17/25] Saved community_16
+2025-07-02 12:44:47,805 - WARNING - Hallucinated: {'four', 'ai', 'the arc challenge'}
+2025-07-02 12:44:47,830 - INFO - [18/25] Saved community_17
+2025-07-02 12:45:08,827 - WARNING - Hallucinated: {'openord', 'neo4j', 'llm', '2011', 'gpt-4', 'rag', 'martin et al.', 'metropolitansky', 'the spie conference on visualization and data analysis'}
+2025-07-02 12:45:08,830 - INFO - [19/25] Saved community_18
+2025-07-02 12:45:35,537 - WARNING - Hallucinated: {'apache 2', 'the magistral small', 'reinforcement learning', 'magistral medium'}
+2025-07-02 12:45:35,539 - INFO - [20/25] Saved community_19
+2025-07-02 12:45:51,069 - WARNING - Hallucinated: {'language model', '20', 'zheng et al.', 'zhu et al.'}
+2025-07-02 12:45:51,073 - INFO - [21/25] Saved community_20
+2025-07-02 12:46:13,983 - WARNING - Hallucinated: {'fourth', 'october 2023', 'question answering', 'mark chen et al.', 'four', 'between 2018 and 2023', '2020', 'context', 'yonatan bisk', 'eunsol choi'}
+2025-07-02 12:46:13,986 - INFO - [22/25] Saved community_21
+2025-07-02 12:46:40,057 - WARNING - Hallucinated: {'two', 'reinforcement learning', 'graphrag'}
+2025-07-02 12:46:40,060 - INFO - [23/25] Saved community_22
+2025-07-02 12:46:59,675 - WARNING - Hallucinated: {'23'}
+2025-07-02 12:46:59,706 - INFO - [24/25] Saved community_23
+2025-07-02 12:47:51,544 - WARNING - Hallucinated: {'clip-higher'}
+2025-07-02 12:47:51,548 - INFO - [25/25] Saved community_24
+2025-07-02 12:48:56,454 - WARNING - Hallucinated: {'7', 'cluster 0'}
+2025-07-02 12:48:56,462 - INFO - [layer0 cluster0] Saved layer0_cluster0
+2025-07-02 12:49:44,538 - WARNING - Hallucinated: {'community', '9', 'what matters in on-policy reinforcement learning: a large-scale empirical study'}
+2025-07-02 12:49:44,541 - INFO - [layer0 cluster1] Saved layer0_cluster1
+2025-07-02 12:50:33,817 - WARNING - Hallucinated: {'a language model', 'knowledge graph extraction and analysis in community 0', 'community 20 summarization'}
+2025-07-02 12:50:33,821 - INFO - [layer0 cluster2] Saved layer0_cluster2
+2025-07-02 12:51:03,494 - WARNING - Hallucinated: {'language models'}
+2025-07-02 12:51:03,496 - INFO - [layer1 cluster0] Saved layer1_cluster0
+2025-07-02 12:51:34,335 - WARNING - Hallucinated: {'method b.', 'community 23'}
+2025-07-02 12:51:34,339 - INFO - [layer1 cluster1] Saved layer1_cluster1
+2025-07-02 12:52:00,218 - WARNING - Hallucinated: {'mixtral', 'less than 5 seconds', 'what matters in on-policy reinforcement learning'}
+2025-07-02 12:52:00,222 - INFO - [layer1 cluster2] Saved layer1_cluster2
+2025-07-02 12:52:22,079 - WARNING - Hallucinated: {'under 5 seconds'}
+2025-07-02 12:52:22,084 - INFO - [layer2 cluster0] Saved layer2_cluster0
+2025-07-02 12:52:48,507 - WARNING - Hallucinated: {'three', 'method'}
+2025-07-02 12:52:48,508 - INFO - [layer2 cluster1] Saved layer2_cluster1
+2025-07-02 12:53:13,074 - WARNING - Hallucinated: {"community 20 summarization'", "knowledge graph extraction and analysis in community 0'"}
+2025-07-02 12:53:13,077 - INFO - [layer2 cluster2] Saved layer2_cluster2
+2025-07-02 12:53:13,128 - INFO - Saved all artifacts
+2025-07-02 12:53:13,128 - INFO - Build complete ✅
