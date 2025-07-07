@@ -164,3 +164,5 @@ for i, chat in enumerate(reversed(st.session_state.history)):
         for idx, summary in enumerate(chat["layer_summaries"]):
             st.markdown(f"**Cluster {idx} Summary:**")
             st.markdown(f"> {summary}")
+
+#Authored by AD
