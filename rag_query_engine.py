@@ -77,3 +77,5 @@ if __name__=="__main__":
         q=input("Ask (or 'exit'): ")
         if q.lower() in ("exit","quit"): break
         print(query_reasoner(q))
+
+#Authored by AD
