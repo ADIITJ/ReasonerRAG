@@ -193,7 +193,7 @@ Key configuration parameters (in both `app.py` and `rag_query_engine.py`):
 
 ## License
 
-This project is provided for research and educational purposes. See [LICENSE](LICENSE) for details.
+This project is provided for research and educational purposes but do provide me credit while using this.
 
 ---
 
@@ -208,6 +208,4 @@ This project is provided for research and educational purposes. See [LICENSE](LI
 - [Mistral LLM](https://mistral.ai/)
 
 ---
-
-Feel free to adapt and extend ReasonerRAG for your own research or applications!
 
